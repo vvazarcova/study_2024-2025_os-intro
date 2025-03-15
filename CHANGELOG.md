@@ -1,3 +1,13 @@
+## [1.6.2](https://github.com/username/git-extended/compare/v1.6.3...v1.6.2) (2025-03-15)
+
+
+### Features
+
+* add lab06 ([c517b4c](https://github.com/username/git-extended/commit/c517b4cc74cd80ff70866e199ed743ac6ad83c55))
+* delete files ([d3cb8ad](https://github.com/username/git-extended/commit/d3cb8ad7a6a9f18e2d5bf41578e87f13edb5c7fc))
+
+
+
 ## [1.6.2](https://github.com/username/git-extended/compare/v1.6.1...v1.6.2) (2025-03-15)
 
 
