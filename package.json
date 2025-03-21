@@ -1,6 +1,10 @@
 {
     "name": "os-intro",
+<<<<<<< HEAD
     "version": "1.6.5",
+=======
+    "version": "1.6.4",
+>>>>>>> origin/feature/feature_branch
     "description": "Git repo for educational purposes",
     "main": "index.js",
     "repository": "git@github.com:username/git-extended.git",
