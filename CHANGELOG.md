@@ -1,3 +1,7 @@
+## [1.6.5](https://github.com/username/git-extended/compare/v1.6.4...v1.6.5) (2025-03-21)
+
+
+
 ## [1.6.2](https://github.com/username/git-extended/compare/v1.6.3...v1.6.2) (2025-03-15)
 
 
