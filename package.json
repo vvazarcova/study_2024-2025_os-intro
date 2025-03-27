@@ -1,9 +1,9 @@
 {
     "name": "os-intro",
 <<<<<<< HEAD
-    "version": "1.6.5",
+    "version": "1.7.0",
 =======
-    "version": "1.6.4",
+    "version": "1.7.0",
 >>>>>>> origin/feature/feature_branch
     "description": "Git repo for educational purposes",
     "main": "index.js",
